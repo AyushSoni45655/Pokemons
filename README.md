@@ -32,7 +32,7 @@ This project allows users to search Pokémon by name or ID and view their detail
 
 
 ## 🔗 Live Demo
-[Click Here to View](https://your-github-username.github.io/worldAtlas/)  
+[Click Here to View](https://ayush-pokemon.netlify.app/)  
 *(replace with your deployed link)*
 
 ---
